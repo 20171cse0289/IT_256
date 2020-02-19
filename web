@@ -1,0 +1,12 @@
+<html>
+<head>
+<style>
+p{text-align:center;color:red;}
+</style>
+</head>
+<body>
+<p>web programming</p>
+<p id="paral"> is fun</p>
+<p>:)</p>
+</body>
+</html>
